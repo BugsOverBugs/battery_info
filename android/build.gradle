@@ -28,7 +28,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace = "com.example.app"
-    compileSdkVersion 30
+    compileSdkVersion 34
 
      ndkVersion = "25.1.8937393"
 
